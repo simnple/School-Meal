@@ -1,7 +1,7 @@
 import json
 import requests
 
-KEY = "YOURKEY"
+KEY = "YOURAPIKEY"
 
 SCHUL_NM = input("학교이름 > ")
 MLSV_YMD = input("날짜 > ")
